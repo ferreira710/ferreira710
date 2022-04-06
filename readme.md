@@ -31,8 +31,8 @@
 </div><br/>
 
 ## Segue alguns artigos já publicados por mim
-<div><br/>
-  <a page="_blank" href="https://www.linkedin.com/pulse/instalando-oh-my-posh-similar-ao-oh-my-zsh-windows-e-usando-ferreira/">
+<div>
+  <a target="_blank" href="https://www.linkedin.com/pulse/instalando-oh-my-posh-similar-ao-oh-my-zsh-windows-e-usando-ferreira/">
     Instalando Oh-My-Posh no Windows Terminal
   </a>
 </div>
