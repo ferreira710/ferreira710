@@ -9,7 +9,6 @@
 
 ![ferreira710 GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreira710)]
 
-
 ## Conhecimento nas linguagens
 
 <div style="display: inline_block"><br/>
@@ -30,3 +29,10 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
+
+## Segue alguns artigos já publicados por mim
+<div><br/>
+  <a page="_blank" href="https://www.linkedin.com/pulse/instalando-oh-my-posh-similar-ao-oh-my-zsh-windows-e-usando-ferreira/">
+    Instalando Oh-My-Posh no Windows Terminal
+  </a>
+</div>
