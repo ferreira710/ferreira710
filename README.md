@@ -9,7 +9,7 @@ No meu tempo livre, gosto de contribuir para projetos open-source, criar pequeno
 **Links úteis:**
 
 * [LinkedIn](https://www.linkedin.com/in/yferreirinha/)
-* [GitHub Profissional](https://github.com/kbm-ferreira)
+* [GitHub Pessoal](https://github.com/ferreira710)
 
 **Projetos:**
 
