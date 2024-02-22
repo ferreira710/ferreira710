@@ -1,6 +1,6 @@
 # Sobre mim
 
-Olá! Sou Gabriel Ferreira, um desenvolvedor front-end de 23 anos da cidade de Limeira, São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, trabalho no KaBuM!
+Olá! Sou Gabriel Ferreira, um desenvolvedor front-end de 23 anos da cidade de Limeira, São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas e, atualmente trabalho no KaBuM!
 
 Além do meu trabalho, sou apaixonado em CyberSec e pretendo cursar uma pós graduação em Offensive Sec.
 
