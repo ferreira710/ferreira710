@@ -4,10 +4,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Next.js** 
+- **Next.js** 🇳
 - **React** ⚛️
 - **TypeScript** 🔷
-- **Styled Components** & **Tailwind CSS**
+- **Styled Components** & **Tailwind CSS** 🎨
 - **Storybook** 📖
 - **Jest** 🧪
 - **Zustand** 🐻
