@@ -27,4 +27,4 @@ jobs:
       env:
         GITHUB_PAT: ${{ secrets.PAT }}
       run: |
-        python script1
+        python script.py
