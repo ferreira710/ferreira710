@@ -1,30 +1,42 @@
-# Sobre mim
+### Hi there 👋
 
-Olá! Sou Gabriel Ferreira, um desenvolvedor front-end de 23 anos da cidade de Limeira, São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas e, atualmente trabalho no KaBuM!
+  I'm Gabriel, 24 y.o! 🥷 **Frontend Ninja** no [KaBuM!](https://kabum.com.br) 🥋
 
-Além do meu trabalho, sou apaixonado em CyberSec e pretendo cursar uma pós graduação em Offensive Sec.
+## 🛠️ Tech Stack
 
-No meu tempo livre, gosto de contribuir para projetos open-source, criar pequenos aplicativos para testar minhas habilidades e jogar online com meus amigos. Estou sempre buscando aprender novas tecnologias e me conectar com outros desenvolvedores apaixonados!
+- **Next.js** 
+- **React** ⚛️
+- **TypeScript** 🔷
+- **Styled Components** & **Tailwind CSS**
+- **Storybook** 📖
+- **Jest** 🧪
+- **Zustand** 🐻
+- **Docker** 🐳
 
-**Links úteis:**
+## 🎨 Visuals
 
-* [LinkedIn](https://www.linkedin.com/in/yferreirinha/)
-* [GitHub Pessoal](https://github.com/ferreira420)
+- **Adobe Photoshop** 🖼️
+- **Figma** ✏️
 
-**Projetos:**
+## 👾 Game Stack
 
-* [Mariella Giacon](https://github.com/ferreira420/mariella-giacon) - https://mariellagiacon.com.br
+- **Minecraft (_~~modded af~~_)** ⛏️
+- **Counter-Strike (_~~faceit~~_)** 🔫
+- **Dota 2** 👺
 
-**Objetivos:**
+## 📈 Metrics
 
-* Aprender Python e desenvolver um aplicativo fullstack completo.
-* Contribuir ativamente para projetos open-source relevantes.
-* Conectar-me com a comunidade de desenvolvimento e aprender com outros desenvolvedores.
+<p>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ferreira710&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true" alt="GitHub Stats" /> 
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreira710&theme=tokyonight&include_all_commits=true&layout=compact&count_private=true&include_all_commits=true" alt="Top Langs" />
+</p>
+<p>
+  <img height="97.5px" src="https://github-profile-trophy.vercel.app/?username=ferreira710&theme=tokyonight&layout=compact" alt="Trophys">
+</p>
 
-**Tecnologias que costumo utilizar:**
+## 🎮 Let's play & code!
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white)
+Liked it? Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yferreirinha)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:gabriel@ferreira710.dev)
