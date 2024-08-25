@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  I'm Gabriel, 24 y.o! 🥷 **Frontend Ninja** no [KaBuM!](https://kabum.com.br) 🥋
+  I'm Gabriel, 24 y.o! 🥷 **Ninja Frontend** at [KaBuM!](https://kabum.com.br) 🥋
 
 ## 🛠️ Tech Stack
 
