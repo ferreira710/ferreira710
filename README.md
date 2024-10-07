@@ -2,6 +2,8 @@
 
   I'm Gabriel, 24 y.o! 🥷 **Ninja Frontend** at [KaBuM!](https://kabum.com.br) 🥋
 
+  <a href="https://app.daily.dev/ferreira710"><img src="./devcard.png" width="356" alt="Gabriel Ferreira's Dev Card"/></a>
+
 ## 🛠️ Tech Stack
 
 - **Next.js** 🇳
