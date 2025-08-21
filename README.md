@@ -9,22 +9,12 @@
 - **Next.js** 🇳
 - **React** ⚛️
 - **TypeScript** 🔷
-- **Styled Components** & **Tailwind CSS** 🎨
+- **Styled Components**
+- **Tailwind CSS** 🎨
 - **Storybook** 📖
 - **Jest** 🧪
 - **Zustand** 🐻
 - **Docker** 🐳
-
-## 🎨 Visuals
-
-- **Adobe Photoshop** 🖼️
-- **Figma** ✏️
-
-## 👾 Game Stack
-
-- **Minecraft (_~~modded af~~_)** ⛏️
-- **Counter-Strike (_~~faceit~~_)** 🔫
-- **Dota 2** 👺
 
 ## 📈 Metrics
 
